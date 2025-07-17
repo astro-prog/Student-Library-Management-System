@@ -86,18 +86,9 @@ Contributions are welcome! To contribute:
 
 
 
-📄 License
-
-*Specify the license under which your project is distributed. For example:*
-
-This project is licensed under the [MIT License](LICENSE).
+Please do feel free to make changes wherever required
 
 
-
-📬 Contact
-
-For questions, suggestions, or feedback, feel free to reach out:
-
-* **GitHub**: [astro-prog](https://github.com/astro-prog)
+made with &hearts; Astro
 
 
