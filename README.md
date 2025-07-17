@@ -89,6 +89,6 @@ Contributions are welcome! To contribute:
 Please do feel free to make changes wherever required
 
 
-made with &hearts; Astro
+Made with &hearts; by Astro
 
 
